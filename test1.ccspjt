@@ -1,0 +1,46 @@
+[PROJECT]
+Target=test1.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.109
+Compiler=PCM
+[Target Data]
+FileList=test1.c
+[test1.c]
+Type=4
+[mru-list]
+1=test1.c
+[Units]
+Count=1
+1=test1 (main)
+
+[defines]
+buildcount=1
+
+[ProjectLog]
+Days=2
+D1=25-12-2025
+D1_L=3
+D1_L1=[52405]Started Editing.
+D1_L2=[52705]Stopped Editing.
+TotalEdit=1
+TotalDebug=0
+D1_E=1
+D1_D=0
+D1_L3=[58772]Project Closed.
+D2=28-12-2025
+D2_L=10
+D2_L1=[77646]Project Opened.
+D2_L2=[77647]Project Closed.
+D2_L3=[77649]Project Opened.
+D2_L4=[77732]Started Editing.
+D2_L5=[78032]Stopped Editing.
+D2_E=0
+D2_D=0
+D2_L6=[79169]Project Closed.
+D2_L7=[79863]Project Opened.
+D2_L8=[79863]Project Closed.
+D2_L9=[79865]Project Opened.
+D2_L10=[82984]Project Closed.
+
+[fileformats]
+forcecoff=0

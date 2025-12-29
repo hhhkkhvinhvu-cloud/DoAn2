@@ -1,0 +1,26 @@
+ÀÄtest
+   ÃÄMAIN  0/178  Ram=0
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄ@cinit2  (Inline)  Ram=0
+   ³  ÀÄDOC_THOIGIAN  0/60  Ram=1
+   ³     ÃÄ@I2C_WRITEU_129  0/16  Ram=1
+   ³     ÃÄ@I2C_WRITEU_129  0/16  Ram=1
+   ³     ÃÄ@I2C_WRITEU_129  0/16  Ram=1
+   ³     ÃÄ@I2C_READU_129  0/16  Ram=1
+   ³     ÃÄbcd_to_decimal  0/53  Ram=3
+   ³     ³  ÀÄ@MUL88  (Inline)  Ram=2
+   ³     ÃÄ@I2C_READU_129  0/16  Ram=1
+   ³     ÃÄbcd_to_decimal  0/53  Ram=3
+   ³     ³  ÀÄ*
+   ³     ÃÄ@I2C_READU_129  0/16  Ram=1
+   ³     ÀÄbcd_to_decimal  0/53  Ram=3
+   ³        ÀÄ*
+   ÃÄISR  0/356  Ram=2
+   ³  ÃÄ@goto47111  0/8  Ram=0
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV1616  (Inline)  Ram=5
+   ³  ÀÄCAPNHAT_DEN  (Inline)  Ram=0
+   ÀÄXULY_NUTBAM  0/60  Ram=1
